@@ -8,4 +8,19 @@ h1 {
     margin-top:0px;
     margin-bottom:0px;
     padding-left: 350px;
+    height: 10%;
+}
+
+body
+{
+    background-image:url('background.png');
+    background-color:black;
+    margin: 0;
+}
+
+.top
+{
+    padding-bottom: 256;
+    background-image:url('backgroundTop.png');
+    background-color:black;
 }
