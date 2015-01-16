@@ -14,8 +14,8 @@ h1 {
 body
 {
     margin: 0;
-    background:url(background.png) top left repeat-x;
-    background-size: 67%;
+    background:url(background.png) top left no-repeat;
+    background-size: 100% 100%;
     background-attachment:fixed;
 }
 
