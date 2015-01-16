@@ -13,14 +13,28 @@ h1 {
 
 body
 {
-    background-image:url('background.png');
-    background-color:black;
+    margin: 0;
+    background:url(background.png) top right no-repeat;
+    background-size: 100%;
+    background-attachment:fixed;
+}
+
+.centeredText {
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: cyan;
+}
+
+.background {
+    position: fixed;
+    width: 100%;
+    height: 75%;
     margin: 0;
 }
 
-.top
-{
-    padding-bottom: 256;
-    background-image:url('backgroundTop.png');
-    background-color:black;
+.backgroundTop {
+    position: fixed;
+    width: 100%;
+    height: 25%;
+    margin: 0;
 }
