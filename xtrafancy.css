@@ -4,10 +4,11 @@ h1 {
 }
 
 .imageCenter {
-    text-align: center;
+    text-align: left;
     margin-top:0px;
     margin-bottom:0px;
-    padding: 0px;
+    padding: 27%;
+    header:10%;
 }
 
 body
