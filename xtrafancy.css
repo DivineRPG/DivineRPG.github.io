@@ -15,7 +15,7 @@ body
 {
     margin: 0;
     background:url(background.png) top left repeat-x;
-    background-size: 2048px;
+    background-size: 65%;
     background-attachment:fixed;
 }
 
